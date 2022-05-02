@@ -21,3 +21,9 @@
     the officially supported framework, also powered by Vite!
   </p>
 </main>
+
+<style>
+  a {
+    @apply underline;
+  }
+</style>
